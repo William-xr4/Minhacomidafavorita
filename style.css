@@ -1,0 +1,25 @@
+body{
+    text-align:center  !important;
+    color:rgb(0, 68, 255) !important;
+    background-color: linear-gradient( black 0%, gray 100%)  !important;
+}
+.menu{
+    list-style:none;
+    position:fixed;
+    background-color:linear-gradient( black 0%, gray 100%)  !important;
+    top:0px;
+}
+.link{
+    float:left;
+    margin:10px;
+    font-family: 'Open Sans', sans-serif;
+}
+a{
+    color:red !important;
+}
+.line{
+    color:rgba(23, 116, 255, 0.897) !important;
+}
+.div{
+    color:rgba(23, 116, 255, 0.897) !important;
+}
